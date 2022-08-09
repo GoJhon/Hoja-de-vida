@@ -1,6 +1,6 @@
 # Hoja de vida
 
-![Foto perfil](  https://i.imgur.com/vaSdcha.jpg[/img] =200x280) 
+![Foto perfil](https://i.imgur.com/vaSdcha.jpg[/img] =200x280) 
 
 
 | Nombres | Apellidos | Tipo de documento | Numero | 
