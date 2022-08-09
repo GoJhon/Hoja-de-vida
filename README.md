@@ -1,11 +1,11 @@
 # Hoja de vida
 
-![Foto perfil](https://i.imgur.com/vaSdcha.jpg[/img]=200pxx280px) 
- 
+![Foto perfil](https://i.imgur.com/vaSdcha.jpg[/img])
 
-| Nombres | Apellidos | Tipo de documento | Numero | 
-|--- |--- |--- | --- | --- |
-| Jhon Fredy |  Santander Patiño | <center>CC</center> | 1002160232 | 
+| Nombres | Apellidos | Tipo de documento | Numero |
+| ------------- | ------------- | :---: | ------------- |
+| Jhon Fredy  | Santander Patiño  | <center>CC</center>  | 1002160233  |
+
 
 ## País
 Colombia
@@ -22,7 +22,7 @@ servicio nacional de aprendizaje (SENA)
 ## Cursos complementarios
 Curso basico de Javascript
 
-Curso definitivo de HTML 5 y CSS3
+Curso definitivo de HTML5 y CSS3
 
 Maquetación web
 
