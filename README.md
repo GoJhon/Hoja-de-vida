@@ -1,33 +1,20 @@
-# Hoja de vida
+## Hola, soy Jhon :man: :wave: :computer:
 
-![Foto perfil](https://i.imgur.com/vaSdcha.jpg[/img])
+![Banner](https://i.imgur.com/BjZArLx.png)
 
-| Nombres | Apellidos | Tipo de documento | Numero |
-| ------------- | ------------- | :---: | ------------- |
-| Jhon Fredy  | Santander Patiño  | <center>CC</center>  | 1002160233  |
-
-
-## País
-Colombia
-
-## Ciudad
-Barranquilla
-
-## Titular
-Actualmente estudiando Tecnólogo en análisis y desarrollo en software
-
-## Educación 
-servicio nacional de aprendizaje (SENA)
-
-## Cursos complementarios
-Curso basico de Javascript
-
-Curso definitivo de HTML5 y CSS3
-
-Maquetación web
-
-
-## Acerca de
-Soy estudiante de Análisis y Desarrollo de Software, busco oportunidad para adquirir experiencia en desarrollo web.  
+Soy tecnico en mantenimiento y reparación de computadores. Actualmente estudio ADSO (análisis y desarrollo en software) en el SENA. Quiero tener la oportunidad para adquirir experiencia en desarrollo web.  
   
-Busco siempre trabajar en equipo, cooperando con todos y apoyando de la mejor manera posible, para así enriquecerme de conocimiento de los demás y también ensañar.
+Busco siempre trabajar en equipo, cooperando con todos y apoyando de la mejor manera posible, para así ensañar mis saberes y enriquecerme de conocimiento de los demás.
+
+## :mortar_board: Formación
+| Formación | Institución | Año | 
+| ------------- | ------------- | :---: | 
+| Primaria  | IED Centro Social Don Bosco  | 2006-2010 | 
+| Secundaria | IED Centro Social Don Bosco  | 2011-2018  |
+| Tecnico | IED Centro Social Don Bosco - SENA  | 2015-2018  |
+
+## 📫 Puedes encontrarme en:
+
+  - [Twitter](https://twitter.com/Jhon_Fredy_S "Twitter")
+  - [Gmail](mailto:jsantander1219@gmail.com?subject=Programaci%C3%B3n&body=Hola%20Jhon%2C%20estoy%20interesado%20en%20tus%20servicios%20de%20programaci%C3%B3n.)
+  - [Linkedin](https://www.linkedin.com/in/jhon-santander-adso/ "Linkedin")
